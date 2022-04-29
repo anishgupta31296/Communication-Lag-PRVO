@@ -5,3 +5,5 @@ and also in the Videos Folder
 The run_lag.m file runs the code with communication lag as a random variable with specified by min_lag and max_lag parameters and is modelled using Probabilistic Reciprocal Velocity Obstacles 
 
 The run_normal file runs the code with communication lag as a random variable with specified by min_lag and max_lag parameters without modelling the noise
+
+The paper can be found in the link https://drive.google.com/file/d/1P4bfAlMPZ4uQ0oZv8qWU81_Q3XOPtZBG/view?usp=sharing
